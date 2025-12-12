@@ -1,2 +1,2 @@
 # BOSTON-CRIME-ANALYSIS.
-🚨 Boston Crime Trend Analysis in Excel This project focuses on using Microsoft Excel's powerful analytical features (specifically Pivot Tables, Charts, and Formulas) to conduct an in-depth analysis of Boston's historical crime incident reports.
+🚨 Boston Crime Trend Analysis in Excel This project focuses on using Microsoft Excel's powerful analytical features (specifically Pivot Tables, Charts, and Formulas) to conduct an in-depth analysis of Boston's historical crime incident reports. The goal is to identify patterns, hotspots, and trends that can inform community safety initiatives and police resource allocation.
